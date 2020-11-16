@@ -1,0 +1,27 @@
+﻿  Task 2.cpp
+C:\Users\vlad korosko\Desktop\Код\Task 2\Task 2.cpp(21,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vlad korosko\Desktop\Код\Task 2\Task 2.cpp(56,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vlad korosko\Desktop\Код\Task 2\Task 2.cpp(72,2): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\vlad korosko\Desktop\Код\Task 2\Task 2.cpp(80,2): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\vlad korosko\Desktop\Код\Task 2\Task 2.cpp(82,2): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\vlad korosko\Desktop\Код\Task 2\Task 2.cpp(84,2): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\vlad korosko\Desktop\Код\Task 2\Task 2.cpp(91,2): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\vlad korosko\Desktop\Код\Task 2\Task 2.cpp(98,2): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\vlad korosko\Desktop\Код\Task 2\Task 2.cpp(105,2): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\vlad korosko\Desktop\Код\Task 2\Task 2.cpp(112,2): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\vlad korosko\Desktop\Код\Task 2\Task 2.cpp(119,2): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\vlad korosko\Desktop\Код\Task 2\Task 2.cpp(126,2): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\vlad korosko\Desktop\Код\Task 2\Task 2.cpp(133,2): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\vlad korosko\Desktop\Код\Task 2\Task 2.cpp(140,2): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\vlad korosko\Desktop\Код\Task 2\Task 2.cpp(147,2): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\vlad korosko\Desktop\Код\Task 2\Task 2.cpp(154,2): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\vlad korosko\Desktop\Код\Task 2\Task 2.cpp(161,2): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\vlad korosko\Desktop\Код\Task 2\Task 2.cpp(168,2): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\vlad korosko\Desktop\Код\Task 2\Task 2.cpp(175,2): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\vlad korosko\Desktop\Код\Task 2\Task 2.cpp(182,2): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\vlad korosko\Desktop\Код\Task 2\Task 2.cpp(189,2): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\vlad korosko\Desktop\Код\Task 2\Task 2.cpp(196,2): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\vlad korosko\Desktop\Код\Task 2\Task 2.cpp(204,2): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\vlad korosko\Desktop\Код\Task 2\Task 2.cpp(212,2): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\vlad korosko\Desktop\Код\Task 2\Task 2.cpp(220,2): warning C4984: 'if constexpr' is a C++17 language extension
+  Task 2.vcxproj -> C:\Users\vlad korosko\Desktop\Код\Task 2\Debug\Task 2.exe
